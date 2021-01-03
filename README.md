@@ -1,1 +1,1 @@
-A simple note command line app built with Node js
+A simple note command line tool built with Node js
